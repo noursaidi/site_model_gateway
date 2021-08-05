@@ -1,0 +1,3 @@
+Exceptions for GAT-100
+  While validating device directory GAT-100
+    Missing files: [rsa_private.pem, rsa_private.pkcs8]

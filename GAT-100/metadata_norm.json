@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "timestamp": "2021-07-30T12:08:25Z",
+  "pointset": {
+    "points": {
+      "globulating_globar": {
+        "units": "Bars"
+      }
+    }
+  },
+  "system": {
+    "location": {
+      "site": "ZZ-TRI-FECTA",
+      "section": "2-3N8C"
+    },
+    "physical_tag": {
+      "asset": {
+        "guid": "drw://TBB",
+        "name": "GAT-100",
+        "site": "ZZ-TRI-FECTA"
+      }
+    }
+  },
+  "gateway": {
+    "proxy_ids": [ "SNS-1" ]
+  },
+  "cloud": {
+    "auth_type": "RS256"
+  },
+  "hash": "c5b7fc6e"
+}

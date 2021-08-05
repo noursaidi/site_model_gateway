@@ -1,0 +1,31 @@
+{
+  "version" : 1,
+  "timestamp" : "2021-07-30T14:38:57Z",
+  "localnet" : {
+    "subsystems" : {
+      "bacnet" : {
+        "local_id" : "4138091"
+      }
+    }
+  },
+  "pointset" : {
+    "points" : {
+      "play_sound" : {
+        "ref" : "MV28.Present_Value",
+        "units" : "No-units"
+      },
+      "room_temp" : {
+        "ref" : "AI3.Present_Value",
+        "units" : "Degrees-Celsius"
+      },
+      "sound_level" : {
+        "ref" : "AI17.Present_Value",
+        "units" : "No-units"
+      },
+      "sound_volume" : {
+        "ref" : "AV30.Present_Value",
+        "units" : "Percent"
+      }
+    }
+  }
+}

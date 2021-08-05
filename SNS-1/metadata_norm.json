@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "timestamp": "2021-07-30T14:38:57Z",
+  "pointset": {
+    "points": {
+      "play_sound": {
+        "units": "No-units",
+        "ref": "MV28.Present_Value"
+      },
+      "room_temp": {
+        "units": "Degrees-Celsius",
+        "ref": "AI3.Present_Value"
+      },
+      "sound_level": {
+        "units": "No-units",
+        "ref": "AI17.Present_Value"
+      },
+      "sound_volume": {
+        "units": "Percent",
+        "ref": "AV30.Present_Value"
+      }
+    }
+  },
+  "system": {
+    "location": {
+      "site": "ZZ-TRI-FECTA",
+      "section": "2-3N8C"
+    },
+    "physical_tag": {
+      "asset": {
+        "guid": "drw://TBC",
+        "name": "SNS-1",
+        "site": "ZZ-TRI-FECTA"
+      }
+    }
+  },
+  "gateway": {
+    "gateway_id": "GAT-100"
+  },
+  "localnet": {
+    "subsystem": {
+      "bacnet": {
+        "local_id": "4138091"
+      }
+    }
+  },
+  "hash": "ddad521d"
+}
